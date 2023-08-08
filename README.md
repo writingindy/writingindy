@@ -10,10 +10,9 @@ When I was in school, I focused on research \:
 ***
 
 :hammer: I'm currently working on \: 
-* carrying out research on the Variational Quantum Linear Solver 🔢
-* supervising student researchers in the Quantum Ethics Project ⚛️
 * working through the Foundations of Astronomical Data Science module (from Data Carpentry) 🌌
 * reading the book "SQL for Data Scientists" :blue_book:
+* finishing up a pet project on Analyzing Letterboxd User Movie Preferences
 
 
 
