@@ -10,13 +10,17 @@ When I was in school, I focused on research \:
 ***
 
 :hammer: I'm currently working on \: 
-* working through the Foundations of Astronomical Data Science module (from Data Carpentry) 🌌
-* reading the book "SQL for Data Scientists" :blue_book:
+* reading "Tidy Modeling with R" :broom:
+* reading "SQL for Data Scientists" :blue_book:
 * finishing up a pet project on Analyzing Letterboxd User Movie Preferences
 
 
 
 <!--
+Daft currently working on:
+* working through the Foundations of Astronomical Data Science module (from Data Carpentry) 🌌
+
+
 **writingindy/writingindy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
