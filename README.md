@@ -9,10 +9,6 @@ When I was in school, I focused on research \:
 
 ***
 
-:hammer: I'm currently working on \: 
-* reading "Regression Modeling Strategies" by Frank E. Harrell Jr 📈
-* reading "SQL for Data Scientists" :blue_book:
-* finishing up a pet project on Analyzing Letterboxd User Movie Preferences
 
 
 
